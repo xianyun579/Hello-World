@@ -1,3 +1,3 @@
 # Hello-World
-Nice to meet you
-A freshman in SEU
+Nice to meet you/n
+I`m a freshman in SEU
